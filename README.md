@@ -26,7 +26,7 @@ Patterns</a></b></li>
 Applications</a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(17).pdf" style="text-decoration:none;">Speaking JavaScript</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(18).pdf" style="text-decoration:none;">Scope and Closures</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(18).pdf" style="text-decoration:none;">You Don't Know JS: Scope and Closures</a></b></li>
 
 
 
