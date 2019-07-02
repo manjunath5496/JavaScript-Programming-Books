@@ -28,6 +28,36 @@ Applications</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(17).pdf" style="text-decoration:none;">Speaking JavaScript</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(18).pdf" style="text-decoration:none;">You Don't Know JS: Scope and Closures</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(19).pdf" style="text-decoration:none;">Maintainable JavaScript</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(20).pdf" style="text-decoration:none;">Understanding ECMASCript 6: The Definitive Guide for JavaScript Developers</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(21).pdf" style="text-decoration:none;">Node.js in Action</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(22).pdf" style="text-decoration:none;">Node.js Design Patterns</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(23).pdf" style="text-decoration:none;">Pro JavaScript Techniques</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(24).pdf" style="text-decoration:none;">Secrets of the JavaScript Ninja</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(25).pdf" style="text-decoration:none;">The Principles of Object-Oriented JavaScript</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(26).pdf" style="text-decoration:none;">You Don't Know JS: ES6 and Beyond</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(27).pdf" style="text-decoration:none;">You Don't Know JS: Up & Going</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(28).pdf" style="text-decoration:none;">Testable JavaScript</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(30).pdf" style="text-decoration:none;">Functional JavaScript</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(31).pdf" style="text-decoration:none;">JavaScript Enlightenment</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(32).pdf" style="text-decoration:none;">JavaScript Step by Step</a></b></li>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
