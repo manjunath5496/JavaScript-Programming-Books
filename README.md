@@ -48,7 +48,7 @@ Applications</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(32).pdf" style="text-decoration:none;">JavaScript Step by Step</a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/JavaScript-Programming-Books/blob/master/javs(29).pdf" style="text-decoration:none;">JavaScript for Absolute Beginners</a></b></li>
 
 
 
